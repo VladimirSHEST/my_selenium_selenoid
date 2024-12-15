@@ -1,4 +1,4 @@
-package com.ibs.tests;
+package com.ibs.tests.selenoid;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -19,6 +19,8 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 public class SeleniumSelenoid {
+
+
     private WebDriver driver;
     private Properties props;
 

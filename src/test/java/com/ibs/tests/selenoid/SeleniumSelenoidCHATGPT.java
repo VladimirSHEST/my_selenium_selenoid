@@ -1,4 +1,4 @@
-package com.ibs.tests;
+package com.ibs.tests.selenoid;
 
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
