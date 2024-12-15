@@ -18,7 +18,7 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-public class S2 {
+public class SeleniumSelenoid {
     private WebDriver driver;
     private Properties props;
 

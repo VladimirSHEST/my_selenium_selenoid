@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-public class SeleniumCHATGPT {
+public class SeleniumSelenoidCHATGPT {
 
     @Test
     void testVegetableAdd() throws MalformedURLException {
