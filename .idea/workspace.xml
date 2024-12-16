@@ -4,123 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="941023a5-5a4b-4510-8168-935f0d978bcd" name="Changes" comment="сделал 2 теста на запуск через селеноид">
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/bin/allure" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/bin/allure.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/config/allure-cucumber.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/config/allure-junit.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/config/allure.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/allure-commandline-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/allure-generator-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/allure-model-2.23.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/allure-plugin-api-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/allure1-model-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/annotations-15.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-codec-1.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-collections-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-collections4-4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-io-2.13.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-lang3-3.13.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/commons-text-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/config/jetty-logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/config/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-ext-tables-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-ast-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-builder-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-collection-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-data-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-dependency-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-format-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-html-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-misc-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-options-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-sequence-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/flexmark-util-visitor-0.62.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/freemarker-2.3.32.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/httpclient-4.5.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/httpcore-4.4.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jackson-annotations-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jackson-core-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jackson-databind-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jackson-dataformat-xml-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jackson-dataformat-yaml-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jackson-module-jaxb-annotations-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jakarta.activation-api-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jakarta.xml.bind-api-2.3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jaxb-utils-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jcommander-1.82.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jetty-http-9.4.51.v20230217.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jetty-io-9.4.51.v20230217.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jetty-server-9.4.51.v20230217.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/jetty-util-9.4.51.v20230217.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/logback-classic-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/logback-core-1.3.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/opencsv-4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/properties-2.0.RC5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/slf4j-api-2.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/snakeyaml-2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/stax2-api-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/tika-core-2.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/lib/woodstox-core-6.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/behaviors-plugin/behaviors-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/behaviors-plugin/static/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/custom-logo-plugin/custom-logo-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/jira-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/allure-jira-commons-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/converter-jackson-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/jackson-annotations-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/jackson-core-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/jackson-databind-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/okhttp-3.14.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/okio-1.17.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/jira-plugin/lib/retrofit-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/junit-xml-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/junit-xml-plugin/junit-xml-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/packages-plugin/packages-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/packages-plugin/static/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/screen-diff-plugin/screen-diff-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/trx-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/trx-plugin/trx-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xctest-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xctest-plugin/xctest-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/allure-jira-commons-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/converter-jackson-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/jackson-annotations-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/jackson-core-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/jackson-databind-2.15.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/okhttp-3.14.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/okio-1.17.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/lib/retrofit-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xray-plugin/xray-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xunit-xml-plugin/allure-plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.allure/allure-2.24.0/plugins/xunit-xml-plugin/xunit-xml-plugin-2.24.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/base_test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/steps/TestAddExistProductSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/testAddProductExist.feature" afterDir="false" />
+    <list default="true" id="941023a5-5a4b-4510-8168-935f0d978bcd" name="Changes" comment="сделал тест на кукумбер и запуск на селеноид">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/steps/VegetableSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddVegetable.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ibs/tests/SeleniumSelenoid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/selenoid/SeleniumSelenoid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ibs/tests/SeleniumSelenoidCHATGPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/selenoid/SeleniumSelenoidCHATGPT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/base_test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/base_test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/steps/TestAddExistProductSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/cucumber/steps/TestAddExistProductSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ibs/tests/selenoid/SeleniumSelenoid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/selenoid/SeleniumSelenoid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ibs/tests/selenoid/SeleniumSelenoidCHATGPT.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.Feature: AddVegetable.executor": "Run",
     "Cucumber Java.Feature: testAddProduct.executor": "Run",
     "Cucumber Java.Feature: testAddProductExist.executor": "Run",
     "Cucumber Java.Scenario: Добавление существующего товара.executor": "Run",
@@ -200,6 +92,25 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.TestRunner (1)">
+    <configuration name="Feature: AddVegetable" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/AddVegetable.feature" />
+      <option name="GLUE" value="com.ibs.tests.cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="my_selenium_selenoid" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: AddVegetable" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: testAddProductExist" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/testAddProductExist.feature" />
@@ -253,21 +164,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumSelenoidCHATGPT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my_selenium_selenoid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ibs.tests.selenoid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ibs.tests.selenoid" />
-      <option name="MAIN_CLASS_NAME" value="com.ibs.tests.selenoid.SeleniumSelenoidCHATGPT" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my_selenium_selenoid" />
       <extension name="coverage">
@@ -287,9 +183,9 @@
       <list>
         <item itemvalue="JUnit.TestRunner (1)" />
         <item itemvalue="JUnit.SeleniumSelenoid" />
+        <item itemvalue="Cucumber Java.Feature: AddVegetable" />
         <item itemvalue="Cucumber Java.Feature: testAddProductExist" />
         <item itemvalue="Cucumber Java.Scenario: Добавление существующего товара" />
-        <item itemvalue="JUnit.SeleniumSelenoidCHATGPT" />
       </list>
     </recent_temporary>
   </component>
@@ -310,12 +206,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734264795221</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="сделал тест на кукумбер и запуск на селеноид">
+      <option name="closed" value="true" />
+      <created>1734290702600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734290702600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="сделал 2 теста на запуск через селеноид" />
-    <option name="LAST_COMMIT_MESSAGE" value="сделал 2 теста на запуск через селеноид" />
+    <MESSAGE value="сделал тест на кукумбер и запуск на селеноид" />
+    <option name="LAST_COMMIT_MESSAGE" value="сделал тест на кукумбер и запуск на селеноид" />
   </component>
 </project>

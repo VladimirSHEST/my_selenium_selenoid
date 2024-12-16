@@ -7,10 +7,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-
 import java.net.MalformedURLException;
 import java.net.URI;
 import java.util.HashMap;
@@ -20,7 +18,6 @@ import java.util.concurrent.TimeUnit;
 
 public class SeleniumSelenoid {
 
-
     private WebDriver driver;
     private Properties props;
 
@@ -28,8 +25,6 @@ public class SeleniumSelenoid {
     void setUp() throws MalformedURLException {
         // Загрузка настроек из файла свойств
         props = new Properties();
-        // Пример: загрузка из файла или системных переменных
-        // props.load(new FileInputStream("config.properties"));
 
         // Определяем, где запускается тест (локально или удаленно)
         boolean isRemote = Boolean.parseBoolean(System.getProperty("remote", "true"));
