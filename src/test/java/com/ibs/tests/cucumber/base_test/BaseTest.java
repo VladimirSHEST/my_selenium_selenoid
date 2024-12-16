@@ -23,9 +23,7 @@ public class BaseTest {
 
     public void setUp() throws MalformedURLException {
         // Загрузка настроек из файла свойств
-        props = new Properties();
-        // Пример: загрузка из файла или системных переменных
-        // props.load(new FileInputStream("config.properties"));
+        props = new Properties();        
 
         // Определяем, где запускается тест (локально или удаленно)
         boolean isRemote = Boolean.parseBoolean(System.getProperty("remote", "true"));
